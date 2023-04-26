@@ -836,7 +836,7 @@ def destroy__instance(args):
 
         available commands:
           ls                 List directory contents
-          rm                 Remote files or directories
+          rm                 Remove files or directories
           du                 Summarize device usage for a set of files
 
 
